@@ -16,8 +16,8 @@ This document sets expectations for Product Owners outside of OCTO we work close
 Product Owners from the Veteran Experience Services (VES) team manage products in different product lines similarly to OCTO POs. This role is to primarily fill the gap between the back-end and front-end team by managing communication and coordination between the teams.
 
 ### Prioritization
-- Share and provide timely guidance on VES priorities, goals, objectives, and desired outcomes
-- Share OCTO priorities with AVA back-end CRM team
+- Provide timely guidance on VES priorities, goals, objectives, and desired outcomes
+- Coordinate the implementation of OCTO priorities with AVA back-end CRM team
 - This looks like
   - Collaborating regularly to share dependencies and roadmap priorities
   - Participating in agile ceremonies and cross-team syncs as needed
@@ -27,13 +27,13 @@ Product Owners from the Veteran Experience Services (VES) team manage products i
 - Identify and communicate blockers from the front-end team that impact back-end CRM work
 - Form and help coordinate key relationships with stakeholders involved in back-end CRM work
 - This looks like
-  - Participate in user research and invite stakeholders to observe
-  - Make sure each team member and stakeholder are aware of the expectations and are set up to succeed
-  - Gain commitments from leaders and team members
+  - Participate in priority or critical user research, as needed and invite stakeholders to observe
+  - Ensure team members and stakeholders are aware of the expectations, dependencies, and pending actions
 
 ### Team leadership
-- Lead the back-end team alongside with VEO leadership to stay on track for delivery while prioritizing team health
-- Reduce or eliminate unnecessary government bureaucracy to create a healthy and productive environment for teams to focus on shipping products over processes
+- Coordinate with CRM back-end PM and VEO leadership to track and prioritize delivery tasks
+- Coordinate with CRM back-end PM and VEO leadership to reduce bureaucracy delays 
 - This looks like
-  - Continuously ask yourself, “What problem are we trying to solve?” and then ensure the team is focused on delivering a minimum viable product
-  - Alongside OCTO Product Lead, limit external demands from both teams to ensure product delivery
+  - Understanding the problem that is the team is trying to solve
+  - Coordinate with CRM back-end PM and VEO leadership on miminum viable product delivery
+  - Alongside OCTO Product Lead, facilitate, assess and coordinate for resolution AVA and CRM team demands that could impact product delivery
